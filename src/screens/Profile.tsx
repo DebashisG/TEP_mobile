@@ -68,7 +68,7 @@ const Profile = ({navigation}) => {
   return (
     <View style={styles.container}>
       <Image
-        source={require('../images/avatar4.jpg')}
+        source={require('../assets/images/avatar4.jpg')}
         style={styles.profileImage}
       />
 
